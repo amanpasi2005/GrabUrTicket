@@ -1,16 +1,42 @@
-# graburticket
+# 🎬 GrabUrTicket
 
-Grab Ur Ticket is a movie ticket booking application
+A Flutter-based movie ticket booking application with Firebase integration, allowing users to book tickets, select seats, and order snacks seamlessly.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎟️ Movie ticket booking system  
+- 🪑 Seat selection functionality  
+- 🍿 Snack ordering feature  
+- 🔐 User authentication using Firebase  
+- 📱 Clean and responsive UI  
+- 🔄 Real-time database integration  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- Flutter (Frontend)
+- Firebase (Authentication, Firestore Database)
+- Dart
+- REST APIs
+
+---
+
+## 📸 Screenshots
+
+![Home](images/home.png)
+![Seat Selection](images/seats.png)
+![Ticket](images/ticket.png)
+![Snacks](images/snacks.png)
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/amanpasi2005/GrabUrTicket.git
+cd GrabUrTicket
+flutter pub get
+flutter run
