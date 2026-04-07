@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55177356008",
+    "project_id": "graburticket",
+    "storage_bucket": "graburticket.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55177356008:android:8b3fa056562833c71adf5d",
+        "android_client_info": {
+          "package_name": "com.movieticket.booking.graburticket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75dR0VoWABNNJBIwFFPk0RdygTpYV0p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
