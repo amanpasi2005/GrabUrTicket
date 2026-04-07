@@ -26,6 +26,16 @@ A Flutter-based movie ticket booking application with Firebase integration, allo
 
 ## 📸 Screenshots
 
+<p align="center">
+  <img src="home.png.png" width="250"/>
+  <img src="seats.png.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="ticket.png.png" width="250"/>
+  <img src="snacks.png.png" width="250"/>
+</p>
+
 ![Home](home.png.png)
 ![Seat Selection](seats.png.png)
 ![Ticket](ticket.png.png)
